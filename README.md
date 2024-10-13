@@ -1,4 +1,4 @@
-# Lab1
+# Lab1 
 
 ## Sarcina nr.1
 Instructiuni pentru rularea lucrarii de laborator
